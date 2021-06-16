@@ -8,7 +8,9 @@ Clone the repository and run `npm i`.
 
 After that, you just need to run `npm start`. Comment in/out the sections you want to test. You will need to get an API key. You can request one from here - https://cobaltintelligence.com/secretary-of-state
 
-See video here - 
+Once you have the API key just put it in the `.sample.env` file and rename it to `.env`.
+
+See video here - https://youtu.be/BkRk1S-oUPc
 
 ### Prerequisites
 
